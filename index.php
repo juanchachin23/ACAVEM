@@ -6,6 +6,6 @@
     <title>ACAVEM-Inicio</title>
 </head>
 <body>
-    <h2>giyiyiyggggCD</h2>
+    <h2>Editando desde mi cuenta</h2>
 </body>
 </html>
