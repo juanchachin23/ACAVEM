@@ -24,7 +24,9 @@ body {
 #container-login {
     margin-top: -12vh !important ;
 }
-
+#menu li a:hover, a:active {
+    color: rgb(27, 95, 184) !important;
+}
 @media only screen and (max-width: 768px){
     .box-area{
         margin: 0 10px;
